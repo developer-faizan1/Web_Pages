@@ -1,0 +1,29 @@
+nav ul{
+    list-style-type: none;
+    background-color: black;
+}
+li{
+    display: inline-block;
+    padding: 15px;
+    margin-right: 20px;
+    font-size: 22px;
+    font-weight: 700;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+div{
+    padding: 20px;
+  
+    margin-bottom: 30px;
+  
+    color: white;
+}
+.topics{
+    background-color: gray;
+    border: 1px solid yellow;
+}
+.topics:target{
+    background-color: #000;
+}
